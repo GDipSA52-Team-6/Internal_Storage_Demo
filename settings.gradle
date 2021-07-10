@@ -1,0 +1,2 @@
+rootProject.name = "Scratchpad_data storage 2"
+include ':app'
